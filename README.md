@@ -4,7 +4,7 @@ Implemented a security monitoring project focused on detecting suspicious SSH ac
 ## Objective
 To analyze SSH authentication events using Splunk SIEM to detect brute-force attempts, failed login patterns, unauthorized access activities, and overall SSH login behavior. The goal was to build dashboards, run correlation queries, and generate insights that improve system security visibility.
 
-### Skills Learned
+## Skills Learned
 SIEM log ingestion and index configuration
 
 Writing SPL (Search Processing Language) queries
@@ -19,7 +19,7 @@ Cybersecurity monitoring & incident detection fundamentals
 
 Understanding SSH authentication patterns and threat indicators
 
-### Tools Used
+## Tools Used
 Splunk Enterprise (Search & Reporting App)
 
 SSH Log Dataset (ssh_logs.json)
